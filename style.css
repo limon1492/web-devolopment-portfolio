@@ -124,3 +124,27 @@ main section{
     padding: 30px;
     box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
 }
+.resume-contaner{
+    display: flex;
+    gap: 24px;
+}
+.exprience-exprince{
+    color: rgba(117, 117, 117, 1);
+}
+.exprience-sub-title{
+    color:rgba(117, 117, 117, 1) ;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.exprience-title{
+    font-size: 25px;
+    font-weight: bold;
+    color:#474747;
+}
+resume hr{
+    margin: 30px 5px;
+}
+.btn-cv{
+    margin-top: 20px;
+}
