@@ -148,3 +148,28 @@ resume hr{
 .btn-cv{
     margin-top: 20px;
 }
+.footer{
+    display: flex;
+    /* justify-content: space-around; */
+    padding: 150px 230px;
+    gap: 100px;}
+.footer-right input[type="text"] {
+    height: 64px;
+    width: 100%;
+    background-color: white;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border-radius: 5px;
+    border: none;
+} 
+.area{
+    height: 180px;
+    width: 100%;
+    background-color: white;
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 24px;
+    border-radius: 5px;
+    border: none;
+}  
